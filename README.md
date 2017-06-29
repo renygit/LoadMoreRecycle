@@ -7,9 +7,9 @@
 maven { url "https://jitpack.io" }
 ```
 ```Java
-  dependencies {<br>
-	        compile 'com.github.renygit:LoadMoreRecycle:0.0.1'<br>
-	}<br>
+dependencies {
+  compile 'com.github.renygit:LoadMoreRecycle:0.0.1'
+}
 ```
   
 用到的库
