@@ -3,15 +3,16 @@
 
 引用
 ===========================
+```Java
 maven { url "https://jitpack.io" }
-  
+```Java
   dependencies {<br>
 	        compile 'com.github.renygit:LoadMoreRecycle:0.0.1'<br>
 	}<br>
   
 用到的库
 ==========================
-[compile 'cn.bingoogolapple:bga-adapter:1.1.9@aar'](https://github.com/bingoogolapple/BGAAdapter-Android)
+[compile 'cn.bingoogolapple:bga-adapter:1.1.9@aar'](https://github.com/bingoogolapple/BGAAdapter-Android)<br>
 [compile 'com.wang.avi:library:2.1.3'](https://github.com/81813780/AVLoadingIndicatorView)
   
 使用
