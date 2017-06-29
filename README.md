@@ -4,11 +4,12 @@
 引用
 ===========================
 ```Java
-maven { url "https://jitpack.io" }
+maven { url "https://jitpack.io" }//Java
 ```Java
   dependencies {<br>
 	        compile 'com.github.renygit:LoadMoreRecycle:0.0.1'<br>
 	}<br>
+	//Java
   
 用到的库
 ==========================
